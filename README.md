@@ -1,6 +1,6 @@
 # Chess with React
 
-An interactive chess game built with React.
+A chess game I built using React, theme is heavily "inspired" by chess.com :) 
 
 ## Getting Started
 
@@ -15,14 +15,6 @@ npm start
 ```
 
 Open [http://localhost:3000](http://localhost:3000) to play.
-
-## Features
-
-- Interactive chess board
-- Move validation
-- Pawn promotion
-- Move history with takeback
-- Game end detection
 
 ## Build
 
